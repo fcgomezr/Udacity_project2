@@ -10,8 +10,16 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
 <img src= 'https://docs.microsoft.com/es-es/azure/architecture/reference-architectures/ai/_images/ml-ops-python.png'>
 <p> From the above architectural diagram, we can see and understand the flow of operations from start to finish. Lets understand each operation :
 <ol>
+In this work we are going to find the architecture that we use to create the model and publish its respective pipeline based on the proposed models, the architecture is presented as follows:
+  <li>Register the Dataset</li>
+  <li>Specify the dataset and configuration details such as machine learning task, here in our case its a classification task, exit criteria, etc. for selecting the best model           that AutoML will produce.</li>
+  <li>Based on the metric selected in AutoML, select the best model and deploy it using azure container instance(ACI)</li>
+  <li>Enable logging and application insight service for keeping track of deployed model performance and number of request handled/failed.</li>
+  <li>After deployment and enabling the logs and application insights use the REST endpoint to interact with the deployed model with sample data and check its prediction results. </li>
+  <li>Using python SDK create a pipeline selecting the best AutoML model and publish it.</li>
+</ol>
+</p>
 
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
