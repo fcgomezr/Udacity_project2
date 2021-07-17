@@ -7,7 +7,7 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
 
 ## Architectural Diagram
 
-<img src= 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Fazure%2Farchitecture%2Freference-architectures%2Fai%2Fmlops-python&psig=AOvVaw2gGhsAG4ljttUqN6IECRCU&ust=1626634608311000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjVuqbk6vECFQAAAAAdAAAAABAO'>
+<img src= 'https://docs.microsoft.com/es-es/azure/architecture/reference-architectures/ai/_images/ml-ops-python.png'>
 <p> From the above architectural diagram, we can see and understand the flow of operations from start to finish. Lets understand each operation :
 <ol>
 
