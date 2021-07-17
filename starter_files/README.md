@@ -8,9 +8,9 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
 ## Architectural Diagram
 
 <img src= 'https://docs.microsoft.com/es-es/azure/architecture/reference-architectures/ai/_images/ml-ops-python.png'>
-<p> From the above architectural diagram, we can see and understand the flow of operations from start to finish. Lets understand each operation :
+<p> In this work we are going to find the architecture that we use to create the model and publish its respective pipeline based on the proposed models, the architecture is presented as follows:
 <ol>
-In this work we are going to find the architecture that we use to create the model and publish its respective pipeline based on the proposed models, the architecture is presented as follows:
+
   <li>Register the Dataset</li>
   <li>Specify the dataset and configuration details such as machine learning task, here in our case its a classification task, exit criteria, etc. for selecting the best model           that AutoML will produce.</li>
   <li>Based on the metric selected in AutoML, select the best model and deploy it using azure container instance(ACI)</li>
