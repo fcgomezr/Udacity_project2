@@ -66,7 +66,7 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
     <li> pipeline REST endpoint in active state </li>
   </ul>
   <p>
-    <img src= 'https://github.com/murphy999/Udacity-Azure-ML-Scholarship/blob/master/nd00333_AZMLND_C2/imgs/Pipeline/pipeline_status_code.PNG'/>
+    <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%2012r.png'/>
     <img src= 'https://github.com/murphy999/Udacity-Azure-ML-Scholarship/blob/master/nd00333_AZMLND_C2/imgs/Pipeline/pipeline_run_details.PNG'/>
     <img src= 'https://github.com/murphy999/Udacity-Azure-ML-Scholarship/blob/master/nd00333_AZMLND_C2/imgs/Pipeline/pipeline_published.PNG'/>
   </p>
