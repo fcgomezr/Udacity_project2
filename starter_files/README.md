@@ -41,7 +41,11 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
       <li> we have enabled the logging feature to capture the logs and check them, when required. </li>
     </ul>
   </p>
-  
+
+  <p float="left">   
+    <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%203.png' width="100%" />
+   </p>
+
     
     
 ### Future Project
