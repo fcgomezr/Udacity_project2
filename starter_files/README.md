@@ -46,8 +46,11 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
     <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%203.png' width="100%" />
    </p>
 
-    
-    
+    #### Loggin Enable 
+     <p float="left">   
+    <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%204.png' width="100%" />
+    <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%205.png' width="100%" />
+   </p>
 ### Future Project
     
 <p> The project can be further improved by:
