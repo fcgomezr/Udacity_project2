@@ -28,7 +28,7 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
 
      </p>
   <p float="left">   
-    <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%202.1.png' width="70%" />
+    <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%202.1.png' width="100%" />
    </p>
 ### Deploy best automl model and consume the model endpoint via an HTTP API
 <section>
