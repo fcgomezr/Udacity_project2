@@ -55,6 +55,9 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
     <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%205.png' width="100%" />
    </p>
   </section>
+  
+  Also, we have used swagger tool that helps build, document, and consume RESTful web services like the ones we have deployed.It further explains what types of HTTP requests that an API can consume, like POST and GET. Azure provides a swagger.json that is used to create a web site that documents the HTTP endpoint for a deployed model.
+  
 ### Future Project
     
 <p> The project can be further improved by:
