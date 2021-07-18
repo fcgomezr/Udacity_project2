@@ -84,6 +84,5 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
 </p>
     
     ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-
+[![Operationalizing Machine Learning](http://img.youtube.com/vi/6hU1IKibDeQ/0.jpg)](https://youtu.be/ToWRj8m-LBI "Operationalizing Machine Learning")
 
