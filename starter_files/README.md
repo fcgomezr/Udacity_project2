@@ -41,7 +41,9 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
       <li> we have enabled the logging feature to capture the logs and check them, when required. </li>
     </ul>
   </p>
-  <p float="left">
+  
+    
+    
 ### Future Project
     
 <p> The project can be further improved by:
