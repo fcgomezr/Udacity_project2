@@ -57,6 +57,22 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
   </section>
   
   Also, we have used swagger tool that helps build, document, and consume RESTful web services like the ones we have deployed.It further explains what types of HTTP requests that an API can consume, like POST and GET. Azure provides a swagger.json that is used to create a web site that documents the HTTP endpoint for a deployed model.
+  ### Publish an ML Pipeline
+<section>
+  In this step, we have used python SDK to create and publish the pipeline, whose details are shown and highlighted in below images. We can see that:
+  <ul>
+    <li> pipeline scheduled run details </li>
+    <li> pipeline has been successfully created </li>
+    <li> pipeline REST endpoint in active state </li>
+  </ul>
+  <p>
+    <img src= 'https://github.com/murphy999/Udacity-Azure-ML-Scholarship/blob/master/nd00333_AZMLND_C2/imgs/Pipeline/pipeline_status_code.PNG'/>
+    <img src= 'https://github.com/murphy999/Udacity-Azure-ML-Scholarship/blob/master/nd00333_AZMLND_C2/imgs/Pipeline/pipeline_run_details.PNG'/>
+    <img src= 'https://github.com/murphy999/Udacity-Azure-ML-Scholarship/blob/master/nd00333_AZMLND_C2/imgs/Pipeline/pipeline_published.PNG'/>
+  </p>
+</section>
+  
+  
   
 ### Future Project
     
