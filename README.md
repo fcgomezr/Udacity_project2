@@ -103,7 +103,11 @@ Concluding, the high data imbalance is something that can be handled in a future
     <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%2015.png'/>
   </p>
 </section>
-  
+
+####  showing a REST endpoint and a status 
+   
+   <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/pipelineactive.png'/>
+   
   
   ## Screen Recording
       
