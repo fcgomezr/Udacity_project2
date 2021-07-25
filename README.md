@@ -146,7 +146,13 @@ For this case we must be careful, since the structure of the database that is in
    
    <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/pipelineactive.png'/>
    
-  
+####   Published Pipeline overview”
+
+   <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/pipelinebankmarketing.png'/>
+
+
+
+
   ## Screen Recording
       
 [![Operationalizing Machine Learning](https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%202.1.png)](https://youtu.be/KYdhStljgvc "Operationalizing Machine Learning")
