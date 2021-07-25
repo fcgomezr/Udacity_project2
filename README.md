@@ -54,10 +54,12 @@ In first intance we update the dataset that we worked
   <p float="left">   
     <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%202.1.png' width="100%" />
    </p>
+  
+  
+ ### Deploy best automl model and consume the model endpoint via an HTTP API
 
   
-  ### Deploy best automl model and consume the model endpoint via an HTTP API
-<section>
+  <section>
   <p> In this step, we have deployed the best model(voting ensemle) whose details are shown in below images, we can see that :
     <ul>
       <li> we have enabled key based authentication so that only authorized users having the key can interact with the model, </li>
@@ -84,8 +86,19 @@ In first intance we update the dataset that we worked
   
   ### Consume Model Endpoints
   
+  
+For this case we must be careful, since the structure of the database that is in the endpoint is different from the one that was corrected in the swagger, the order of the variables is different, this can cause a mismatch in the endpoint and therefore reason may cause errors. This is solved by changing the input order of the endpoint data. 
+
+<img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/endpoint.png'>
+
+  
   Once the model is deployed, use the <endpoint.py> script provided to interact with the trained model.
   In this case the run endpoint.py created a new file with name data.json and display the next: 
+  
+  
+  
+  
+  
   
   <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/datajson.png'>
 
