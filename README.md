@@ -90,11 +90,9 @@ Concluding, the high data imbalance is something that can be handled in a future
     <li> pipeline REST endpoint in active state </li>
   </ul>
   
-    
-     <p>   
-        <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%2012r.png'/>
-     </p>
-   </section>
+     
+  <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%2012r.png'/>
+   
  
   
 #### Jupyter Notebook showing the “Use RunDetails Widget” 
