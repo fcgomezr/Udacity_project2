@@ -74,8 +74,10 @@ Concluding, the high data imbalance is something that can be handled in a future
   ### Consume Model Endpoints
   
   Once the model is deployed, use the <endpoint.py> script provided to interact with the trained model.
+  In this case the run endpoint.py created a new file with name data.json and display the next: 
   
-  
+  <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/datajson.png'>
+
   
   
   
