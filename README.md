@@ -111,5 +111,5 @@ Concluding, the high data imbalance is something that can be handled in a future
   
   ## Screen Recording
       
-[![Operationalizing Machine Learning](http://img.youtube.com/vi/6hU1IKibDeQ/0.jpg)](https://youtu.be/ToWRj8m-LBI "Operationalizing Machine Learning")
+[![Operationalizing Machine Learning](http://img.youtu.be/KYdhStljgvc/0.jpg)](https://youtu.be/KYdhStljgvc "Operationalizing Machine Learning")
 
