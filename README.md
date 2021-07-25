@@ -17,6 +17,22 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
 </ol>
 </p>
 
+### Future Project
+
+Class imbalance is a very common issue in classification problems in machine learning. Imbalanced data negatively impact the model's accuracy because it is easy for the model to be very accurate just by predicting the majority class, while the accuracy for the minority class can fail miserably. This means that taking into account a simple metric like **accuracy** in order to judge how good our model is can be misleading.
+
+There are many ways to deal with imbalanced data. These include using: 
+1. A different metric; for example, AUC_weighted which is more fit for imbalanced data
+2. A different algorithm
+3. Random Under-Sampling of majority class 
+4. Random Over-Sampling of minority class
+5. The [imbalanced-learn package](https://imbalanced-learn.readthedocs.io/en/stable/)
+
+There are many other methods as well, but I will not get into much details here as it is out of scope. 
+
+Concluding, the high data imbalance is something that can be handled in a future execution, leading to an obvious improvement of the model.
+
+* Another factor that I would improve is **n_cross_validations**. As cross-validation is the process of taking many subsets of the full training data and training a model on each subset, the higher the number of cross validations is, the higher the accuracy achieved is. However, a high number also raises computation time (a.k.a. training time) thus costs so there must be a balance between the two factors.
 
 ## Key Steps
 ### Create a new AutoML run
@@ -70,16 +86,6 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
 </section>
   
   
-  
-### Future Project
-    
-<p> The project can be further improved by:
-  <ul>
-    <li> Creating an interactive frontend to display the deployed models prediction result instead of showing on git bash </li>
-    <li> Get more user for testing so as to get service insights through <i> application insights </i> </li>
-  </ul>
-</p>
-    
-    ## Screen Recording
+      ## Screen Recording
 [![Operationalizing Machine Learning](http://img.youtube.com/vi/6hU1IKibDeQ/0.jpg)](https://youtu.be/ToWRj8m-LBI "Operationalizing Machine Learning")
 
