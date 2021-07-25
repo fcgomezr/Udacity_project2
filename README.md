@@ -70,6 +70,15 @@ Concluding, the high data imbalance is something that can be handled in a future
   </section>
   
   Also, we have used swagger tool that helps build, document, and consume RESTful web services like the ones we have deployed.It further explains what types of HTTP requests that an API can consume, like POST and GET. Azure provides a swagger.json that is used to create a web site that documents the HTTP endpoint for a deployed model.
+  
+  ### Consume Model Endpoints
+  
+  Once the model is deployed, use the <endpoint.py> script provided to interact with the trained model.
+  
+  
+  
+  
+  
   ### Publish an ML Pipeline
 <section>
   In this step, we have used python SDK to create and publish the pipeline, whose details are shown and highlighted in below images. We can see that:
