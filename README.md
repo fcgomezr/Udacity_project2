@@ -87,7 +87,7 @@ In first intance we update the dataset that we worked
   ### Consume Model Endpoints
   
   
-For this case we must be careful, since the structure of the database that is in the endpoint is different from the one that was corrected in the swagger, the order of the variables is different, this can cause a mismatch in the endpoint and therefore reason may cause errors. This is solved by changing the input order of the [(endpoint)](https://github.com/fcgomezr/Udacity_project2/blob/main/process/endpoint.py "Operationalizing Machine Learning")
+For this case we must be careful, since the structure of the database that is in the endpoint is different from the one that was corrected in the swagger, the order of the variables is different, this can cause a mismatch in the endpoint and therefore reason may cause errors. This is solved by changing the input order of the [endpoint.py](https://github.com/fcgomezr/Udacity_project2/blob/main/process/endpoint.py "Operationalizing Machine Learning")
  data. 
 
 <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/endpoint.png'>
@@ -101,7 +101,7 @@ For this case we must be careful, since the structure of the database that is in
   
   
   
-  <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/datajson.png'>
+  <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/endpoint2.png'>
 
   
   
