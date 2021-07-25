@@ -54,6 +54,8 @@ In first intance we update the dataset that we worked
   <p float="left">   
     <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%202.1.png' width="100%" />
    </p>
+  
+
  ###  Enable Application Insights
   
   
