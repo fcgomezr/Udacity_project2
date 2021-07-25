@@ -91,15 +91,15 @@ Concluding, the high data imbalance is something that can be handled in a future
   </ul>
   
     
-    
+     <p float="left">   
     <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%2012r.png'/>
-    
+      </p>
     
     #### Jupyter Notebook showing the “Use RunDetails Widget” 
     
-    
+    <p float="left">  
     <img src='https://github.com/fcgomezr/Udacity_project2/blob/main/process/rundetails.png'/>
-    
+    </p>
   <p>  
     <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%2016.png'/>
     <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%2015.png'/>
@@ -107,6 +107,7 @@ Concluding, the high data imbalance is something that can be handled in a future
 </section>
   
   
-      ## Screen Recording
+  ## Screen Recording
+      
 [![Operationalizing Machine Learning](http://img.youtube.com/vi/6hU1IKibDeQ/0.jpg)](https://youtu.be/ToWRj8m-LBI "Operationalizing Machine Learning")
 
