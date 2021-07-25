@@ -111,5 +111,5 @@ Concluding, the high data imbalance is something that can be handled in a future
   
   ## Screen Recording
       
-[![Operationalizing Machine Learning](http://img.youtu.be/KYdhStljgvc/0.jpg)](https://youtu.be/KYdhStljgvc "Operationalizing Machine Learning")
+[![Operationalizing Machine Learning](https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%202.1.png)](https://youtu.be/KYdhStljgvc "Operationalizing Machine Learning")
 
