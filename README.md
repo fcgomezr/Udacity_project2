@@ -142,11 +142,21 @@ For this case we must be careful, since the structure of the database that is in
   </p>
 </section>
 
-####  showing a REST endpoint and a status 
+####  Showing a REST endpoint and a status 
    
    <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/pipelineactive.png'/>
    
-####   Published Pipeline overview”
+#### The Bankmarketing dataset with the AutoML module
+
+ ##### For the model created in Jupyter 
+
+<img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/pipelinebankmarketing2.png'/>
+ 
+ ##### For the model in firts steps 
+<img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/pipelinebankmarketing3.png'/>
+
+   
+####   Published Pipeline overview
 
    <img src= 'https://github.com/fcgomezr/Udacity_project2/blob/main/process/pipelinebankmarketing.png'/>
 
