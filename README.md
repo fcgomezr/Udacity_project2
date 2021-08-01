@@ -155,5 +155,5 @@ For this case we must be careful, since the structure of the database that is in
 
   ## Screen Recording
       
-[![Operationalizing Machine Learning](https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%202.1.png)](https://youtu.be/KYdhStljgvc "Operationalizing Machine Learning")
+[![Operationalizing Machine Learning](https://github.com/fcgomezr/Udacity_project2/blob/main/process/task%202.1.png)](https://youtu.be/PUjce-SBPi8 "Operationalizing Machine Learning")
 
